@@ -1,12 +1,4 @@
-// welcome to CS01b! (Object-Oriented Programming)
 
-// wifi name: ktbyte-students
-// wifi pass: kapparate
-
-// if joining in-person:
-// please sign in to your ktbyte acccount, and open up ktbyte.com/vm
-
-// Instructor: Chi-Bong Ho
 
 // open Eclipse IDE (Integrated Development Environment)
 
